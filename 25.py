@@ -1,4 +1,4 @@
-u=int(input())
-l=list(map(int,input().split()))
-g=sorted(l)
-print(g[int(len(g)/2)])
+x=int(input())
+y=list(map(int,input().split()))
+z=sorted(y)
+print(z[int(len(z)/2)])
